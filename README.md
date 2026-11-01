@@ -1,7 +1,7 @@
 # Système de Gestion Aéroport (simple)
 
-Projet de gestion des passagers et des vols développé en langage C
-dans le cadre des travaux pratiques de L2 à l'USTHB.
+Projet de gestion des passagers et des vols développé en langage C.
+
 
 ## Fonctionnalités
 - Gestion des vols (ajout, capacité, destination)
